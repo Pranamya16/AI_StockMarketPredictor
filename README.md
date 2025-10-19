@@ -28,15 +28,16 @@ This project integrates data preprocessing, feature engineering, model training,
 
 ---
 ## 📂 Project Structure
-
 AI_StockMarketPredictor/
 │
-├── stock_market_analysis_fixed_Version2_(1).ipynb # Main Jupyter Notebook
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-├── .gitignore # Files to be ignored by Git
-├── LICENSE # Open-source license (MIT)
-└── run_instructions.md # How to run locally
+├── stock_market_analysis_fixed_Version2_(1).ipynb   # Main Jupyter Notebook
+├── requirements.txt                                 # Python dependencies
+├── README.md                                        # Project documentation
+├── .gitignore                                       # Files to be ignored by Git
+├── LICENSE                                          # Open-source license (MIT)
+└── run_instructions.md                              # How to run locally
 
-## 📂 Project Structure
+
+
+
 
