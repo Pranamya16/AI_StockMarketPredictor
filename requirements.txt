@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+tensorflow
+keras
+yfinance
+tqdm
+jupyter
