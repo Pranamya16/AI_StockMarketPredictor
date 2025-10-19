@@ -92,17 +92,3 @@ The dashboard can:
 * Accept custom ticker input
 * Show model predictions interactively
 
----
-
-✅ **You’re all set!**
-Your **AI Stock Market Predictor** is ready to analyze and forecast Indian stock trends using LSTM and ML models.
-
----
-
-```
-
----
-
-Would you like me to now generate the **`app.py` (Streamlit dashboard)** file for this project —  
-with input for stock symbol, live plots, and LSTM prediction display?
-```
