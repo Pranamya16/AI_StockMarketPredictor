@@ -7,11 +7,11 @@ This project integrates data preprocessing, feature engineering, model training,
 
 ## 🚀 Features
 
-- 📊 **Data Analysis & Visualization:** Explore stock price trends with detailed graphs.
-- 🔍 **Feature Engineering:** Uses moving averages, RSI, MACD, and volatility-based indicators.
-- 🤖 **LSTM Deep Learning Model:** Captures long-term temporal dependencies in time-series data.
-- 📈 **Machine Learning Comparison:** Implements Random Forest, XGBoost, and Linear Regression models.
-- 💡 **Interactive Dashboard (optional):** Can be integrated with Streamlit for live prediction and exploration.
+- 📊 **Data Analysis & Visualization:** Explore stock price trends with detailed graphs.  
+- 🔍 **Feature Engineering:** Uses moving averages, RSI, MACD, and volatility-based indicators.  
+- 🤖 **LSTM Deep Learning Model:** Captures long-term temporal dependencies in time-series data.  
+- 📈 **Machine Learning Comparison:** Implements Random Forest, XGBoost, and Linear Regression models.  
+- 💡 **Interactive Dashboard (optional):** Can be integrated with Streamlit for live prediction and exploration.  
 
 ---
 
@@ -27,7 +27,10 @@ This project integrates data preprocessing, feature engineering, model training,
 | Others | yfinance, datetime, tqdm |
 
 ---
+
 ## 📂 Project Structure
+
+```plaintext
 AI_StockMarketPredictor/
 │
 ├── stock_market_analysis_fixed_Version2_(1).ipynb   # Main Jupyter Notebook
@@ -36,9 +39,3 @@ AI_StockMarketPredictor/
 ├── .gitignore                                       # Files to be ignored by Git
 ├── LICENSE                                          # Open-source license (MIT)
 └── run_instructions.md                              # How to run locally
-
-
-
-
-
-
