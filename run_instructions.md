@@ -1,6 +1,4 @@
 
-
-````markdown
 # 🏃‍♂️ Run Instructions for AI Stock Market Predictor
 
 Follow these steps to set up and run the **AI Stock Market Predictor** on your local system.
