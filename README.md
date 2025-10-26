@@ -8,9 +8,8 @@ This project integrates data preprocessing, feature engineering, model training,
 ## 🚀 Features
 
 - 📊 **Data Analysis & Visualization:** Explore stock price trends with detailed graphs.  
-- 🔍 **Feature Engineering:** Uses moving averages, RSI, MACD, and volatility-based indicators.  
+- 🔍 **Feature Engineering:** Uses moving averages, RSI, MACD, a  
 - 🤖 **LSTM Deep Learning Model:** Captures long-term temporal dependencies in time-series data.  
-- 📈 **Machine Learning Comparison:** Implements Random Forest, XGBoost, and Linear Regression models.  
 - 💡 **Interactive Dashboard (optional):** Can be integrated with Streamlit for live prediction and exploration.  
 
 ---
